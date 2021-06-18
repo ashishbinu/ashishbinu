@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, I'm Ashish Binu
 
-<!--
-**ashishbinu/ashishbinu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning react and nodejs.
+- 💻 I work on flutter and web projects.
+- 💙 I love open source and love to contribute to it.
 
-Here are some ideas to get you started:
+#### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Flutter / Dart
+* HTML / CSS / JS
+* React / Node
+* Shell
+
+
+[![Ashish Binu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishbinu)](https://github.com/anuraghazra/github-readme-stats)
