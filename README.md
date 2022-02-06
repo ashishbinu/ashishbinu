@@ -1,11 +1,12 @@
 ### Hi there 👋, I'm Ashish Binu
 
-- 🌱 I’m currently learning react and nodejs.
-- 💻 I work on flutter and web projects.
+- 🌱 I’m currently learning ethereum dapp development.
+- 💻 I work on flutter, react and nodejs projects.
 - 💙 I love open source and love to contribute to it.
 
 #### Skills
 
+* Solidity
 * Flutter / Dart
 * HTML / CSS / JS
 * React / Node
