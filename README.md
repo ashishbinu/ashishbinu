@@ -7,7 +7,7 @@
 #### Skills
 
 * Solidity
-* Rust
+* Rust / Go
 * React / Node
 * HTML / CSS / JS
 * Flutter / Dart
