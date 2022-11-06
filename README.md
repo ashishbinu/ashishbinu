@@ -13,5 +13,10 @@
 * Flutter / Dart
 * Shell
 
+#### Socials
+* [Twitter](https://twitter.com/binu_ashish)
+* [BuidlGuidl](https://buidlguidl.com/builders/0x39b538c4Ca1198aca4F45cfb21561F5619E904fa)
+
+Ethereum - `0x39b538c4Ca1198aca4F45cfb21561F5619E904fa`
 
 [![Ashish Binu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishbinu)](https://github.com/anuraghazra/github-readme-stats)
