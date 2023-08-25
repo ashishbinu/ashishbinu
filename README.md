@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Ashish Binu
 
 - 🌱 I’m currently learning **ethereum dapp** and **rust** development.
-- 💻 I work on **flutter**, **react** and **nodejs** projects.
+- 💻 I build projects for fun.
 - 💙 I love **open source** and love to contribute to it.
 
 #### Skills
